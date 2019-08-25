@@ -203,7 +203,7 @@ text-align:center;
 .backimg
 {
 	
-	background-image:url("../images/2.jpg");
+	background-image:url("2.jpg");
 	background-attachment:fixed;
 	width:100%;
 	background-size:100%;
@@ -322,7 +322,7 @@ height:233.33px;
 .backimg2
 {
 	
-	background-image:url("../images/50.jpg");
+	background-image:url("50.jpg");
 	background-attachment:fixed;
 	width:100%;
 	background-size:100%;
